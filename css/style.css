@@ -1,0 +1,28 @@
+/* Importing all components file */
+@import url("components/avatar.css");
+@import url("components/container.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+/* Importing fonts*/
+@import url("https://fonts.googleapis.com/css2?family=Amaranth:wght@700&family=Martel+Sans&family=Merriweather&display=swap");
+
+/* General style rule for fonts and colours */
+body {
+	font-family: 'Merriweather', serif;
+	font-size: 18px;
+	margin: 0px;
+	color: #230007;
+}
+h1 {
+	font-family: 'Amaranth', sans-serif;
+	font-weight: bold;
+}
+h2 {
+	font-family: 'Martel Sans', sans-serif;
+}
+a {
+	text-decoration: none;
+	font-family: 'Amaranth', sans-serif;
+}
